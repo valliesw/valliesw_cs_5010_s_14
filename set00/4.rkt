@@ -9,8 +9,18 @@
 ; (tip 10 0.15)  => 1.5
 ; (tip 20 0.17)  => 3.4
 (define (tip bill rate)
-  (* bill rate))
+  (cond
+    [(< bill 0) "Bill must be a non-negative number."]
+    [(or (< rate 0)
+         (> rate 1)) "Rate must be between 0 and 1, inclusive."]
+    [else (* bill rate)]))
 (tip 10 0.15)
 (tip 20 0.17)
 (tip 100 0.20)
 (tip 15 0.05)
+(tip 0 0.20)
+(tip -1 0.20)
+(tip 10 0.00)
+(tip 10 -0.01)
+(tip 10 1.00)
+(tip 10 1.10)

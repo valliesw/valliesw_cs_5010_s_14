@@ -4,4 +4,10 @@ Date    Who    Start    Stop    Interruptions    Question    TimeOnTask    Comme
 01/19    SV    1421     1422                     3           1             Filled out “I am here”.  Can’t log in to Piazza yet as I can’t access my CCIS email account yet.
 01/19    SV    1423     1615	40               ?           72            Module 1, read the slides and watched the videos
 01/19    SV    1618     1623                     1           5             Problem set 0 exercise 1
-=========================Commiting to Github 01/19 1627============================
+=========================Committing to Github 01/19 1627============================
+01/19    SV    1628     1632                     2           4             Problem set 0 exercise 2
+01/19    SV    1632     1635                     1           3             Realized that I did the first problem wrong.  I wrote a function instead of just computing the number of 
+                                                                           seconds in a leap year
+01/19    SV    1639     1644                     3           5             Problem set 0 exercise 3
+01/19    SV    1645     1650                     4           5             Problem set 0 exercise 4
+=========================Committing to Github 01/19 1651============================

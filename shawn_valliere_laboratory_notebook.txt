@@ -2,4 +2,5 @@ Date    Who    Start    Stop    Interruptions    Question    TimeOnTask    Comme
 01/19    SV    1306     1355    20               1           29            Setting up laptop for course
 01/19    SV    1358     1420                     2           22            Git Laboratory exercises 
 01/19    SV    1421     1422                     3           1             Filled out “I am here”.  Can’t log in to Piazza yet as I can’t access my CCIS email account yet.
-01/19    SV    1423                              ?                         Module 1
+01/19    SV    1423     1615	40               ?           72            Module 1, read the slides and watched the videos
+01/19    SV    1618     1623                     1           5             Problem set 0 exercise 1

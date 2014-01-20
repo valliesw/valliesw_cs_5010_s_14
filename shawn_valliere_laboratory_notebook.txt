@@ -27,3 +27,5 @@ Date    Who    Start    Stop    Interruptions    Question    TimeOnTask    Comme
 =========================Committing to Github 01/19 2256============================
 01/19    SV    2257     2301                     13          4             Problem set 0 exercise 13
 =========================Committing to Github 01/19 2301============================
+01/19    SV    2302     2304                     14          2             Problem set 0 exercise 14
+=========================Committing to Github 01/19 2304============================

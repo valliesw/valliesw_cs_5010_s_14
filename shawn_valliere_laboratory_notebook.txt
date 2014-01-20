@@ -13,4 +13,7 @@ Date    Who    Start    Stop    Interruptions    Question    TimeOnTask    Comme
 =========================Committing to Github 01/19 1651============================
 01/19    SV    1652     1703                     4,5         11            Hadn’t followed the instructions for problem 4 properly, also did problem 5 of set 0
 01/19    SV    1704     1720                     6           16            Problem set 0 exercise 6
-=========================Committing to Github 01/19 1721============================  
+=========================Committing to Github 01/19 1721============================
+01/19    SV    1724     1729                     7           6             Problem set 0 exercise 7
+01/19    SV    2011     2046                     8           35            Problem set 0 exercise 8
+=========================Committing to Github 01/19 2046============================

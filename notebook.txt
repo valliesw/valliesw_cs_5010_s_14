@@ -31,3 +31,7 @@ Date    Who    Start    Stop    Interruptions    Question    TimeOnTask    Comme
 =========================Committing to Github 01/19 2304============================
 01/19    SV    2315     2330    5                15          10            Problem set 0 exercise 15
 =========================Committing to Github 01/19 2330============================
+01/25    SV    2230     2326    10               4           46            Created state machine for problem 4
+01/26    SV    2355     0133                     3           98            Did problem 3
+01/27    SV    0133     0347    10               2          124            Did problem 2
+01/27    SV    0358     0359                     2            1            Used constants in problem 2
